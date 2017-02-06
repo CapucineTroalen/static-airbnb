@@ -23,3 +23,56 @@
 .bg-facebook {
   background: #3b5998;
 }
+
+body {
+  margin: 0;
+  font-family: Open-sans, sans-serif;
+}
+h1, h2, h3 {
+  font-family: Raleway, Helvetica, sans-serif;
+}
+h2 {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 30px;
+  margin-top: 0;
+}
+.padded {
+  padding: 100px 0;
+}
+
+.wrapper-grey {
+  background: #F4F4F4;
+}
+
+h2 {
+  margin-bottom: 0;
+}
+
+.form-control {
+  display: inline-block;
+  width: 150px;
+  margin: auto;
+}
+
+.newsletter {
+  margin-top: 150px;
+  margin-bottom: 30px;
+}
+
+/* MIDDLE ICONS*/
+
+.micon img {
+  width: 35%;
+  height: auto;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+
+.micon h2 {
+  font-size: 20px;
+}
+
+.micon p {
+  font-weight: lighter;
+}
